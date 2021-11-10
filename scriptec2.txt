@@ -1,0 +1,2 @@
+sudo docker kill mytest || true
+sudo docker rm mytest || true
